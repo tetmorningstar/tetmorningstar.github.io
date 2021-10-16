@@ -1,8 +1,9 @@
-
-/* Doadores */
+/**
+	Doadores
+*/
 
 .userPopout-xaxa6l[data-user-id="193188089756123136"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="193188089756123136"] .profileBadges-ohc0Vu::before,
-.userPopout-xaxa6l[data-user-id="596812194906374167"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="596812194906374167"] .profileBadges-ohc0Vu::before,
+.userPopout-xaxa6l[data-user-id="292355615798591488"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="292355615798591488"] .profileBadges-ohc0Vu::before,
 .userPopout-xaxa6l[data-user-id="281376608038813696"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="281376608038813696"] .profileBadges-ohc0Vu::before,
 .userPopout-xaxa6l[data-user-id="269939624401436672"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="269939624401436672"] .profileBadges-ohc0Vu::before,
 .userPopout-xaxa6l[data-user-id="229598810614136832"] .profileBadges-ohc0Vu::before, .userPopout-xaxa6l[vz-user-id="229598810614136832"] .profileBadges-ohc0Vu::before,
@@ -26,7 +27,7 @@
 }
 
 .member-3-YXUe .wrapper-3t9DeA[data-user-id="193188089756123136"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="193188089756123136"]::before,
-.member-3-YXUe .wrapper-3t9DeA[data-user-id="596812194906374167"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="596812194906374167"]::before,
+.member-3-YXUe .wrapper-3t9DeA[data-user-id="292355615798591488"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="292355615798591488"]::before,
 .member-3-YXUe .wrapper-3t9DeA[data-user-id="281376608038813696"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="281376608038813696"]::before,
 .member-3-YXUe .wrapper-3t9DeA[data-user-id="269939624401436672"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="269939624401436672"]::before,
 .member-3-YXUe .wrapper-3t9DeA[data-user-id="229598810614136832"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="229598810614136832"]::before,
@@ -89,16 +90,16 @@
   background-image: linear-gradient(-60deg, #1a8ce9 40%, #0b304e 80%, #1a8ce9 100%);
 }
 
-.message-2qnXI6[data-user-id="596812194906374167"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
-.message-2qnXI6[data-author-id="596812194906374167"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
-.message-2qnXI6[vz-user-id="596812194906374167"] .username-1A8OIy,
-.channel-2QD9_O[data-user-id="596812194906374167"] .overflow-WK9Ogt,
-.channel-2QD9_O[vz-user-id="596812194906374167"] .overflow-WK9Ogt,
-.member-3-YXUe[data-user-id="596812194906374167"] .roleColor-rz2vM0,
-.member-3-YXUe[vz-user-id="596812194906374167"] .roleColor-rz2vM0,
-.userPopout-xaxa6l[data-user-id="596812194906374167"] .username-2b1r56,
-.userPopout-xaxa6l[vz-user-id="596812194906374167"] .username-2b1r56,
-.root-3QyAh1[data-user-id="596812194906374167"] .username-2b1r56 {
+.message-2qnXI6[data-user-id="292355615798591488"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="292355615798591488"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="292355615798591488"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="292355615798591488"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="292355615798591488"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="292355615798591488"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="292355615798591488"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="292355615798591488"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="292355615798591488"] .username-2b1r56,
+.root-3QyAh1[data-user-id="292355615798591488"] .username-2b1r56 {
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
@@ -326,7 +327,9 @@
   }
 }
 
-/* ~  S E R V I D O R  ~ */
+/**
+	Servidor
+*/
 
 @charset "UTF-8";
 .container-3w7J-x[aria-label*="Empíreo"] .header-2V-4Sw {
