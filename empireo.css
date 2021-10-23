@@ -1,9 +1,44 @@
+/*
+	Servidor
+*/
 
+@charset "UTF-8";
+.container-3w7J-x[aria-label*="Empíreo"] .header-2V-4Sw {
+  height: 150px;
+  padding: 16px;
+  align-items: flex-start;
+}
+
+
+.container-3w7J-x[aria-label*="Empíreo"] .header-2V-4Sw::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background: url("https://cdn.discordapp.com/attachments/777528718855110696/898734965422948382/Banner.png") center/cover no-repeat;
+  -webkit-mask: linear-gradient(#000000, transparent);
+}
+
+.container-3w7J-x[aria-label^="Empíreo"] + .panels-j1Uci_ > .container-3baos1 .button-14-BFJ {
+  color: #ff859c !important;
+}
 
 /*
 	Nomes coloridos por cargo
 */
 .membersGroup-v9BXpm[aria-label*="Sentinela👑"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 203, 65);"] {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  background-image: linear-gradient(-60deg, #3A32DF 0%, #3149E3 10%, #315CE4 20%, #3B6DE3 30%, #4B7CE0 40%, #4B7CE0 50%, #3B6DE3 60%, #315CE4 70%, #3149E3 80%, #3A32DF 90%, #3A32DF 100%);
+  animation: shine 10s linear infinite;
+  -webkit-background-clip: text;
+}
+
+.membersGroup-v9BXpm[aria-label*="Beep Boop🤖"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 203, 65);"] {
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
