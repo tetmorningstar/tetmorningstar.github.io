@@ -20,22 +20,22 @@
   height: 100%;
   background: url("https://cdn.discordapp.com/attachments/777528718855110696/903778222947307520/Banner.png") center/cover no-repeat;
   -webkit-mask: linear-gradient(#000000, transparent);
-}*/
+}
 
 .container-3w7J-x[aria-label^="Empíreo"] + .panels-j1Uci_ > .container-3baos1 .button-14-BFJ {
   color: #eb3838 !important;
-}
+}*/
 
 /*
 	Nomes coloridos por cargo
 */
 
 /*Beep Boop🤖*/
-.member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 203, 65);"] {
+.member-3-YXUe .roleColor-rz2vM0[style="color: rgb(114, 137, 218);"] {
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
-  background-image: linear-gradient(-60deg, #00ff9f 0%, #21ffab 10%, #42ffb8 20%, #5effc3 30%, #7affce 40%, #7affce 50%, #5effc3 60%, #42ffb8 70%, #21ffab 80%, #00ff9f 90%, #00ff9f 100%);
+  background-image: linear-gradient(-60deg, #3A32DF 0%, #3149E3 10%, #315CE4 20%, #3B6DE3 30%, #4B7CE0 40%, #4B7CE0 50%, #3B6DE3 60%, #315CE4 70%, #3149E3 80%, #3A32DF 90%, #3A32DF 100%);
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
 }
