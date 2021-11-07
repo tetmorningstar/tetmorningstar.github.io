@@ -2,7 +2,7 @@
 	Servidor
 */
 
-@charset "UTF-8";
+/*@charset "UTF-8";
 .container-3w7J-x[aria-label*="Empíreo"] .header-2V-4Sw {
   height: 150px;
   padding: 16px;
@@ -18,30 +18,24 @@
   z-index: -1;
   width: 100%;
   height: 100%;
-  background: url("https://cdn.discordapp.com/attachments/777528718855110696/901570389967273995/Banner.png") center/cover no-repeat;
-}
+  background: url("https://cdn.discordapp.com/attachments/777528718855110696/903778222947307520/Banner.png") center/cover no-repeat;
+  -webkit-mask: linear-gradient(#000000, transparent);
+}*/
 
 .container-3w7J-x[aria-label^="Empíreo"] + .panels-j1Uci_ > .container-3baos1 .button-14-BFJ {
-  color: #ff859c !important;
+  color: #eb3838 !important;
 }
 
 /*
 	Nomes coloridos por cargo
 */
-.membersGroup-v9BXpm[aria-label*="Sentinela👑"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 203, 65);"] {
-  color: transparent !important;
-  font-weight: bold;
-  background-size: 300%;
-  background-image: linear-gradient(-60deg, #3A32DF 0%, #3149E3 10%, #315CE4 20%, #3B6DE3 30%, #4B7CE0 40%, #4B7CE0 50%, #3B6DE3 60%, #315CE4 70%, #3149E3 80%, #3A32DF 90%, #3A32DF 100%);
-  animation: shine 10s linear infinite;
-  -webkit-background-clip: text;
-}
 
-.membersGroup-v9BXpm[aria-label*="Beep Boop🤖"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 203, 65);"] {
+/*Beep Boop🤖*/
+.member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 203, 65);"] {
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
-  background-image: linear-gradient(-60deg, #3A32DF 0%, #3149E3 10%, #315CE4 20%, #3B6DE3 30%, #4B7CE0 40%, #4B7CE0 50%, #3B6DE3 60%, #315CE4 70%, #3149E3 80%, #3A32DF 90%, #3A32DF 100%);
+  background-image: linear-gradient(-60deg, #00ff9f 0%, #21ffab 10%, #42ffb8 20%, #5effc3 30%, #7affce 40%, #7affce 50%, #5effc3 60%, #42ffb8 70%, #21ffab 80%, #00ff9f 90%, #00ff9f 100%);
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
 }
@@ -59,18 +53,18 @@
   height: 17px;
   margin: 1.5px 6px 0 0;
   pointer-events: none;
-  background: url("https://cdn.discordapp.com/attachments/755137948529328138/897267532589834280/sparkles_2728.png") center/100% no-repeat;
+  background: url("https://cdn.discordapp.com/attachments/777528718855110696/903779225276915772/Folha.png") center/100% no-repeat;
 }
 
 .member-3-YXUe .wrapper-3t9DeA[data-user-id="229598810614136832"]::before, .member-3-YXUe .wrapper-3t9DeA[vz-user-id="229598810614136832"]::before {
   content: "";
   position: absolute;
   width: 18px;
-  height: 14px;
+  height: 18px;
   bottom: -3px;
   left: -5px;
   z-index: 2;
-  background: url("https://cdn.discordapp.com/attachments/755137948529328138/897267532589834280/sparkles_2728.png") no-repeat;
+  background: url("https://cdn.discordapp.com/attachments/777528718855110696/903779225276915772/Folha.png") no-repeat;
   background-size: 85%;
   border-radius: 0 5px 0 0;
   pointer-events: none;
